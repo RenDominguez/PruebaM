@@ -4,6 +4,8 @@
  */
 package poderm;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author maysa
@@ -14,7 +16,8 @@ public class PoderM {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola Mundo");
+        JOptionPane.showMessageDialog(null, "Hola Mundo");
     }
     
 }
