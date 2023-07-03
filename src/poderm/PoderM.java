@@ -19,6 +19,8 @@ public class PoderM {
         System.out.println("Hola Mundo");
         JOptionPane.showMessageDialog(null, "Hola Mundo");
         JOptionPane.showMessageDialog(null,"Que mas");
+        System.out.println("Joder");
+    
     }
     
 }
