@@ -10,5 +10,10 @@ package poderm;
  * @author PC01
  */
 public class Prueba {
+
+
+        private String cedula;
+    String cedulas;
+
     
 }
